@@ -1,0 +1,7 @@
+body {
+	max-width: 980px;
+	margin: 0 auto;
+	font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+	font-size: 100%; /* 16px */
+	color: #585858
+}
