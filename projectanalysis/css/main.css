@@ -3,5 +3,31 @@ body {
 	margin: 0 auto;
 	font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
 	font-size: 100%; /* 16px */
-	color: #585858
+	color: #585858;
+	background-color: #6ECFF6;
+}
+
+h1, h2, h3 {
+	margin: 0;
+	color: #626262;
+}
+
+a {
+	text-decoration: none;
+}
+
+p {
+	padding: 5px;
+}
+
+header {
+	background-color: #fff;
+	margin: 0;
+	padding: 20px;
+}
+
+section {
+	background-color: #fff;
+	margin: 0;
+	padding: 20px;
 }
