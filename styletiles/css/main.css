@@ -1,0 +1,8 @@
+body {
+	max-width: 980px;
+	margin: 0 auto;
+	font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+	color: #fff;
+	font-size: 75%; /* 12px */
+	background-color: #3c3c3c;
+}
